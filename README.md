@@ -19,22 +19,23 @@
 <p align="center">
 
  <a href="https://instagram.com/vexax" target="_blank">
-  <img src="/assets/instagramlight.png" alt="instagram" width="30px" />
+  <img src="/assets/instagramlight.png" alt="instagram" width="25px" />
  </a>
 
  <a href="https://www.linkedin.com/in/the-jatin/" target="_blank">
-  <img src="/assets/linkedinlight.png" alt="linkedin" width="30px" />
+  <img src="/assets/linkedinlight.png" alt="linkedin" width="25px" />
   </a> 
 
  <a href="https://twitter.com/jsr_zip" target="_blank">
-  <img src="/assets/twiterlight.png" alt="twitter" width="30px" style="margin-right: 10px;" />
+  <img src="/assets/twiterlight.png" alt="twitter" width="25px" style="margin-right: 10px;" />
  </a>
  
   <a href="mailto:jatinsingh.jsin@gmail.com" target="_blank">
-  <img src="/assets/maillight.png" alt="linkedin" width="30px" />
+  <img src="/assets/maillight.png" alt="linkedin" width="25px" />
   </a> 
 
 </p>
+
 <br />
 <!-- About Section -->
 
