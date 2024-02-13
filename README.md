@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="/assets/reactgif.gif" alt="Welcome" width="100%" >
 
 <!--
 **the-jatin-singh/the-jatin-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
